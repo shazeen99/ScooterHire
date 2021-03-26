@@ -10,3 +10,5 @@ class HiringStation {
 }
 
 module.exports = HiringStation
+
+//class for hiring station
